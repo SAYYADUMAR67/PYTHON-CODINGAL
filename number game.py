@@ -8,4 +8,4 @@ while playing:
         print("Congratulations! You guessed the number.")
         playing = False
     else:
-        print("Sorry, that's not it. Try again.")57
+        print("Sorry, that's not it. Try again.")
