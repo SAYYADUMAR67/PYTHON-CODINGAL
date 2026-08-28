@@ -18,3 +18,11 @@ class usa():
 
     def type(self):
         print("usa is a developed country")
+
+obj_ind = india()
+obj_usa = usa()
+
+for country in (obj_ind, obj_usa):
+    country.capital()
+    country.language()
+    country.type()
