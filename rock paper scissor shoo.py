@@ -61,4 +61,4 @@ result_label = tk.Label(root, text="", font=("Helvetica", 16, "bold"), fg="#3333
 result_label.pack()
  
 # Start the Tkinter application loop
-root.mainloop()c nxnmxz
+root.mainloop()
